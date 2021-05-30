@@ -20,7 +20,7 @@ const Formulir = ({
         <Col>
           <Form onSubmit={handleSubmit}>
             <Form.Group controlId="nama">
-              <Form.Label>Nama Barang</Form.Label>
+              <Form.Label>Nama Makanan</Form.Label>
               <Form.Control
                 type="text"
                 name="nama"
